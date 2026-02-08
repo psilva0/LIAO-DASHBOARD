@@ -1,5 +1,5 @@
 # LIAO-DASHBOARD
-ste projeto foi desenvolvido para a LIAO - Liga de Inteligência e Otimização da UFBA com o objetivo de automatizar e dar transparência ao acompanhamento de participação dos membros.
+Este projeto foi desenvolvido para a LIAO - Liga de Inteligência e Otimização da UFBA com o objetivo de automatizar e dar transparência ao acompanhamento de participação dos membros.
 
 📝 Descrição do Projeto
 O sistema permite que os membros da liga visualizem seu engajamento e presença em tempo real. O foco principal foi a criação de uma interface intuitiva que centraliza dados de reuniões e atividades, eliminando a necessidade de consultas manuais.
@@ -52,6 +52,4 @@ Pedro de Freitas Silva
 
 Pedro Rodriguez
 
-Pedro de Freitas Silva (Author)
 
-Pedro Rodriguez
