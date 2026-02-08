@@ -25,7 +25,7 @@ Pedro de Freitas Silva
 
 Pedro Rodriguez
 
-Versão em Inglês 🇺🇸
+
 Attendance Management Dashboard - LIAO (UFBA)
 This project was developed for LIAO - Liga de Inteligência e Otimização da UFBA to automate and provide transparency in tracking member participation.
 
