@@ -48,6 +48,7 @@ Applied Skills: Data Blending, Dynamic Filters, and Calculated Fields.
 
 👥 Contributors
 This project was a collaboration between:
+
 Pedro de Freitas Silva 
 
 Pedro Rodriguez
