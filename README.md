@@ -110,4 +110,8 @@ com foco em eficiência organizacional e gestão orientada por dados.
 ## Demonstração
 
 🎥 Vídeo demonstrativo do dashboard:  
-video.dash.mp4
+
+
+https://github.com/user-attachments/assets/0b98d3b7-71f7-466c-91f5-74df89b4bd66
+
+
