@@ -91,13 +91,6 @@ Durante o projeto, foram aplicados conhecimentos em:
 
 ---
 
-## Demonstração
-
-🎥 Vídeo demonstrativo do dashboard:  
-`video.dash.mp4`
-
----
-
 ## Colaboradores
 
 Desenvolvido em colaboração com:
@@ -113,3 +106,8 @@ Projeto desenvolvido para a
 **LIAO – Liga de Inteligência e Otimização da Universidade Federal da Bahia (UFBA)**
 
 com foco em eficiência organizacional e gestão orientada por dados.
+
+## Demonstração
+
+🎥 Vídeo demonstrativo do dashboard:  
+video.dash.mp4
