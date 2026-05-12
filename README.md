@@ -1,68 +1,115 @@
-# LIAO-DASHBOARD
-Este projeto foi desenvolvido para a LIAO - Liga de Inteligência e Otimização da UFBA com o objetivo de automatizar e dar transparência ao acompanhamento de participação dos membros.
+# Attendance Management Dashboard – LIAO (UFBA)
 
-📝 Descrição do Projeto
+Dashboard de Business Intelligence desenvolvido para a Liga de Inteligência e Otimização da UFBA com o objetivo de automatizar o acompanhamento de frequência, participação e engajamento dos membros em tempo real.
 
-O sistema permite que os membros da liga visualizem seu engajamento e presença em tempo real. O foco principal foi a criação de uma interface intuitiva que centraliza dados de reuniões e atividades, eliminando a necessidade de consultas manuais.
+## Visão Geral
 
-🚀 Funcionalidades
+Este projeto foi desenvolvido para resolver uma necessidade real de gestão interna da LIAO: centralizar e automatizar o monitoramento da participação dos membros, eliminando processos manuais de consulta e aumentando a transparência organizacional.
 
-Atualização em Tempo Real: Conexão direta com a base de dados para refletir mudanças instantaneamente.
-
-Segurança de Nível de Linha (RLS): Implementação de filtros por e-mail para garantir que cada membro visualize apenas os seus próprios dados.
-
-Métricas de Performance: Cálculo de tempo médio em reuniões, porcentagem de presença e total de horas dedicadas.
-
-🛠️ Tecnologias Utilizadas
-
-Looker Studio: Para a criação e visualização das métricas.
-
-Google Sheets: Como fonte de dados inicial e integração.
-
-Conhecimentos Aplicados: Data Blending (Mesclagem de dados), Filtros Dinâmicos e Campos Calculados.
-
-👥 Colaboradores
-Este projeto foi uma colaboração entre:
-
-Pedro de Freitas Silva 
-
-Pedro Rodriguez
+A solução permite o acompanhamento individualizado de métricas acadêmicas e institucionais por meio de visualizações dinâmicas, atualizadas automaticamente e protegidas por controle de acesso personalizado.
 
 
-Attendance Management Dashboard - LIAO (UFBA)
+## O problema
 
-This project was developed for LIAO - Liga de Inteligência e Otimização da UFBA to automate and provide transparency in tracking member participation.
+O acompanhamento da participação dos membros era realizado manualmente, o que causava:
 
-📝 Project Overview
-
-The system allows league members to view their engagement and attendance in real-time. The primary goal was to create an intuitive interface that centralizes meeting and activity data, removing the need for manual inquiries.
-
-🚀 Key Features
-
-Real-Time Updates: Direct connection to the data source to reflect changes instantly.
-
-Row-Level Security (RLS): Implementation of email-based filters ensuring each member can only see their own data.
-
-Performance Metrics: Calculation of average meeting time, attendance percentage, and total hours dedicated.
-
-🛠️ Tech Stack
-
-Looker Studio: For dashboarding and data visualization.
-
-Google Sheets: Used as the primary data source and integration tool.
-
-Applied Skills: Data Blending, Dynamic Filters, and Calculated Fields.
-
-👥 Contributors
-
-This project was a collaboration between:
-
-Pedro de Freitas Silva 
-
-Pedro Rodriguez
+- Baixa visibilidade sobre indicadores individuais
+- Dependência de consultas diretas pela gestão
+- Dificuldade na consolidação de dados
+- Maior esforço para monitoramento contínuo
 
 
+## Solução Desenvolvida
 
-https://github.com/user-attachments/assets/813bb5ba-d6d5-472e-b413-a2a904567407
+Foi desenvolvido um dashboard interativo no Looker Studio com integração automatizada à base de dados da liga, permitindo:
+
+- Monitoramento em tempo real da frequência dos membros
+- Visualização individualizada de indicadores de participação
+- Controle seguro de acesso por usuário
+- Centralização dos dados em ambiente único
 
 
+## Principais Funcionalidades
+
+### Atualização em Tempo Real
+Conexão direta com a base de dados para refletir automaticamente alterações de presença e participação.
+
+### Row-Level Security (RLS)
+Implementação de filtros por e-mail para garantir que cada membro visualize apenas suas próprias informações.
+
+### Monitoramento de KPIs
+Acompanhamento de indicadores como:
+
+- Percentual de presença
+- Tempo médio de participação em reuniões
+- Total de horas dedicadas
+- Histórico individual de engajamento
+
+### Interface Interativa
+Visualização intuitiva com filtros dinâmicos e navegação simplificada para consulta rápida.
+
+---
+
+## Tecnologias Utilizadas
+
+**Business Intelligence**
+- Looker Studio
+
+**Fonte de Dados**
+- Google Sheets
+
+**Recursos Aplicados**
+- Row-Level Security (RLS)
+- Data Blending
+- Campos Calculados
+- Filtros Dinâmicos
+- Modelagem para visualização analítica
+
+---
+
+## Impacto Gerado
+
+A solução permitiu:
+
+- Automatização do acompanhamento dos 37 membros da liga
+- Redução de controles manuais
+- Maior transparência institucional
+- Apoio à tomada de decisão da diretoria
+- Melhor acompanhamento de desempenho e engajamento
+
+---
+
+## Competências Desenvolvidas
+
+Durante o projeto, foram aplicados conhecimentos em:
+
+- Business Intelligence
+- Estruturação analítica de dados
+- Governança e segurança da informação
+- Automação de relatórios
+- Construção de dashboards gerenciais
+
+---
+
+## Demonstração
+
+🎥 Vídeo demonstrativo do dashboard:  
+`video.dash.mp4`
+
+---
+
+## Colaboradores
+
+Desenvolvido em colaboração com:
+
+- Pedro de Freitas Silva
+- Pedro Rodriguez
+
+---
+
+## Contexto Institucional
+
+Projeto desenvolvido para a  
+**LIAO – Liga de Inteligência e Otimização da Universidade Federal da Bahia (UFBA)**
+
+com foco em eficiência organizacional e gestão orientada por dados.
