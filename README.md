@@ -1,117 +1,98 @@
-# Attendance Management Dashboard – LIAO (UFBA)
+Attendance Management Dashboard – LIAO (UFBA)
 
-Dashboard de Business Intelligence desenvolvido para a Liga de Inteligência e Otimização da UFBA com o objetivo de automatizar o acompanhamento de frequência, participação e engajamento dos membros em tempo real.
+Business Intelligence dashboard developed for the Liga de Inteligência e Otimização (Artificial Intelligence and Optimization League) at UFBA, aimed at automating real-time tracking of member attendance, participation, and engagement.
 
-## Visão Geral
+Overview
 
-Este projeto foi desenvolvido para resolver uma necessidade real de gestão interna da LIAO: centralizar e automatizar o monitoramento da participação dos membros, eliminando processos manuais de consulta e aumentando a transparência organizacional.
+This project was built to address a real internal management need at LIAO: centralizing and automating the monitoring of member participation, eliminating manual lookup processes and increasing organizational transparency.
 
-A solução permite o acompanhamento individualizado de métricas acadêmicas e institucionais por meio de visualizações dinâmicas, atualizadas automaticamente e protegidas por controle de acesso personalizado.
+The solution enables individualized tracking of academic and institutional metrics through dynamic, automatically updated visualizations, protected by custom access control.
 
+The Problem
 
-## O problema
+Member participation tracking was done manually, which caused:
 
-O acompanhamento da participação dos membros era realizado manualmente, o que causava:
+Low visibility into individual indicators
+Reliance on direct queries from leadership
+Difficulty consolidating data
+Greater effort required for ongoing monitoring
+Solution Developed
 
-- Baixa visibilidade sobre indicadores individuais
-- Dependência de consultas diretas pela gestão
-- Dificuldade na consolidação de dados
-- Maior esforço para monitoramento contínuo
+An interactive dashboard was built in Looker Studio, with automated integration to the league's database, enabling:
 
+Real-time tracking of member attendance
+Individualized visualization of participation indicators
+Secure, per-user access control
+Centralization of data in a single environment
+Key Features
+Real-Time Updates
 
-## Solução Desenvolvida
+Direct connection to the database to automatically reflect changes in attendance and participation.
 
-Foi desenvolvido um dashboard interativo no Looker Studio com integração automatizada à base de dados da liga, permitindo:
+Row-Level Security (RLS)
 
-- Monitoramento em tempo real da frequência dos membros
-- Visualização individualizada de indicadores de participação
-- Controle seguro de acesso por usuário
-- Centralização dos dados em ambiente único
+Email-based filtering implementation to ensure each member can only view their own information.
 
+KPI Monitoring
 
-## Principais Funcionalidades
+Tracking of indicators such as:
 
-### Atualização em Tempo Real
-Conexão direta com a base de dados para refletir automaticamente alterações de presença e participação.
+Attendance percentage
+Average meeting participation time
+Total hours dedicated
+Individual engagement history
+Interactive Interface
 
-### Row-Level Security (RLS)
-Implementação de filtros por e-mail para garantir que cada membro visualize apenas suas próprias informações.
+Intuitive visualization with dynamic filters and simplified navigation for quick lookups.
 
-### Monitoramento de KPIs
-Acompanhamento de indicadores como:
+Tech Stack
 
-- Percentual de presença
-- Tempo médio de participação em reuniões
-- Total de horas dedicadas
-- Histórico individual de engajamento
+Business Intelligence
 
-### Interface Interativa
-Visualização intuitiva com filtros dinâmicos e navegação simplificada para consulta rápida.
+Looker Studio
 
----
+Data Source
 
-## Tecnologias Utilizadas
+Google Sheets
 
-**Business Intelligence**
-- Looker Studio
+Applied Techniques
 
-**Fonte de Dados**
-- Google Sheets
+Row-Level Security (RLS)
+Data Blending
+Calculated Fields
+Dynamic Filters
+Data modeling for analytical visualization
+Impact
 
-**Recursos Aplicados**
-- Row-Level Security (RLS)
-- Data Blending
-- Campos Calculados
-- Filtros Dinâmicos
-- Modelagem para visualização analítica
+The solution enabled:
 
----
+Automated tracking of the league's 37 members
+Reduced manual controls
+Greater institutional transparency
+Support for leadership decision-making
+Better tracking of performance and engagement
+Skills Developed
 
-## Impacto Gerado
+Throughout the project, the following skills were applied:
 
-A solução permitiu:
+Business Intelligence
+Analytical data structuring
+Information governance and security
+Report automation
+Management dashboard building
+Collaborators
 
-- Automatização do acompanhamento dos 37 membros da liga
-- Redução de controles manuais
-- Maior transparência institucional
-- Apoio à tomada de decisão da diretoria
-- Melhor acompanhamento de desempenho e engajamento
+Developed in collaboration with:
 
----
+Pedro de Freitas Silva
+Pedro Rodriguez
+Institutional Context
 
-## Competências Desenvolvidas
+Project developed for the
+LIAO – Liga de Inteligência e Otimização, Universidade Federal da Bahia (UFBA)
+with a focus on organizational efficiency and data-driven management.
 
-Durante o projeto, foram aplicados conhecimentos em:
+Demo
 
-- Business Intelligence
-- Estruturação analítica de dados
-- Governança e segurança da informação
-- Automação de relatórios
-- Construção de dashboards gerenciais
-
----
-
-## Colaboradores
-
-Desenvolvido em colaboração com:
-
-- Pedro de Freitas Silva
-- Pedro Rodriguez
-
----
-
-## Contexto Institucional
-
-Projeto desenvolvido para a  
-**LIAO – Liga de Inteligência e Otimização da Universidade Federal da Bahia (UFBA)**
-
-com foco em eficiência organizacional e gestão orientada por dados.
-
-## Demonstração
-
-🎥 Vídeo demonstrativo do dashboard:  
-
-
+🎥 Dashboard demo video:
 https://github.com/user-attachments/assets/0b98d3b7-71f7-466c-91f5-74df89b4bd66
-
-
