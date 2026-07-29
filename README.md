@@ -85,7 +85,9 @@ Collaborators
 Developed in collaboration with:
 
 Pedro de Freitas Silva
+
 Pedro Rodriguez
+
 Institutional Context
 
 Project developed for the
