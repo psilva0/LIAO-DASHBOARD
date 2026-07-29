@@ -94,7 +94,7 @@ Project developed for the
 LIAO – Liga de Inteligência e Otimização, Universidade Federal da Bahia (UFBA)
 with a focus on organizational efficiency and data-driven management.
 
-Demo
 
 🎥 Dashboard demo video:
+
 https://github.com/user-attachments/assets/0b98d3b7-71f7-466c-91f5-74df89b4bd66
