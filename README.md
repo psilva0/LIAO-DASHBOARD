@@ -88,7 +88,7 @@ Pedro de Freitas Silva
 
 Pedro Rodriguez
 
-Institutional Context
+Institutional Context:
 
 Project developed for the
 LIAO – Liga de Inteligência e Otimização, Universidade Federal da Bahia (UFBA)
